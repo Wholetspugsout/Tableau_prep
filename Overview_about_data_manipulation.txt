@@ -1,0 +1,4 @@
+1. Cleaning; missing data, diffrent format, renaming and formatting, outliers, grouping common values
+2. Integration; joins and unions, integrating multiple data sources, blending
+3. Transformations; aggregation & pivot steps, calculated fields
+4. Data reduction - cleaning dataa: removal of data
